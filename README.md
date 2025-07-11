@@ -26,10 +26,8 @@ MS-Dhoni-Career-Analysis/
 
 ## 🔧 Tools & Technologies
 
-- **Python**
-- **Pandas** – for data wrangling  
-- **Matplotlib** & **Seaborn** – for data visualization  
-- **Jupyter Notebook** – for analysis & presentation
+-Power BI
+-Excel
 
 ---
 
@@ -53,7 +51,6 @@ MS-Dhoni-Career-Analysis/
 - Real-world EDA with sports data  
 - Data cleaning and transformation  
 - Creating insightful visual stories  
-- Strengthening Python plotting skills
 
 ---
 

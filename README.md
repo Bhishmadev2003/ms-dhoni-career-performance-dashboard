@@ -16,7 +16,6 @@ To explore and visualize MS Dhoni’s international cricket journey through **da
 MS-Dhoni-Career-Analysis/
 │
 ├── visualizations/
-│   └── (PNG/JPG plots)
 └── README.md
 ```
 
@@ -24,8 +23,8 @@ MS-Dhoni-Career-Analysis/
 
 ## 🔧 Tools & Technologies
 
--Power BI
--Excel
+-**Power BI**
+-**Excel**
 
 ---
 

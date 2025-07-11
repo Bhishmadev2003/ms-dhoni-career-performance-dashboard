@@ -15,8 +15,6 @@ To explore and visualize MS Dhoni’s international cricket journey through **da
 ```
 MS-Dhoni-Career-Analysis/
 │
-├── Dhoni_dataset.csv
-├── ms_dhoni_analysis.ipynb
 ├── visualizations/
 │   └── (PNG/JPG plots)
 └── README.md
@@ -48,7 +46,6 @@ MS-Dhoni-Career-Analysis/
 
 ## 🌱 Learning Outcomes
 
-- Real-world EDA with sports data  
 - Data cleaning and transformation  
 - Creating insightful visual stories  
 

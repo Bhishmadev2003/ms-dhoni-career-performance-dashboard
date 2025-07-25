@@ -1,4 +1,4 @@
-# 🏏 MS Dhoni Career Analysis
+# 🏏 ms-dhoni-career-performance-dashboard
 
 A data-driven project analyzing the legendary cricket career of **Mahendra Singh Dhoni**, focusing on his **batting performance, match impact, and consistency** using Python and data visualization tools.
 

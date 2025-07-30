@@ -10,17 +10,6 @@ To explore and visualize MS Dhoni’s international cricket journey through **da
 
 ---
 
-## 📁 Project Structure
-
-```
-MS-Dhoni-Career-Analysis/
-│
-├── visualizations/
-└── README.md
-```
-
----
-
 ## 🔧 Tools & Technologies
 
 -**Power BI**

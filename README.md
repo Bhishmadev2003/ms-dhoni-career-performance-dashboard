@@ -1,46 +1,59 @@
-# 🏏 ms-dhoni-career-performance-dashboard
+# 🏏 MS Dhoni Career Performance Dashboard
 
-A data-driven project analyzing the legendary cricket career of **Mahendra Singh Dhoni**, focusing on his **batting performance, match impact, and consistency** using Python and data visualization tools.
-
----
-
-## 📊 Project Objective
-
-To explore and visualize MS Dhoni’s international cricket journey through **data analysis and storytelling**, uncovering patterns in his performance across different formats, venues, oppositions, and match situations.
+A data-driven dashboard project analyzing the legendary career of **Mahendra Singh Dhoni**, with a focus on his **batting performance, match impact, and consistency** across international formats. Built using **Power BI** and **Excel**, the dashboard highlights key trends and memorable moments in his career.
 
 ---
 
-## 🔧 Tools & Technologies
+## 🎯 Project Objective
 
--**Power BI**
--**Excel**
+To visualize MS Dhoni’s cricket journey through **data storytelling**, answering questions like:
 
----
-
-## 📌 Key Insights
-
-- Performance trend over the years  
-- Comparison across ODI, T20I, and Test formats  
-- Best performances by venue and opposition  
-- Clutch innings in high-pressure matches  
-- Batting position impact on average and strike rate
+- How did his performance evolve year over year?  
+- Which formats and positions suited him best?  
+- Where did he deliver match-winning performances?  
+- How consistent was he in pressure situations?
 
 ---
 
-## 📸 Sample Visualizations
-<img width="1200" height="673" alt="image" src="https://github.com/user-attachments/assets/cf2b188b-c042-4904-a137-922bb3a7a8af" />
+## 🧰 Tools & Technologies
+
+- **Power BI** – for interactive dashboards and visuals  
+- **Excel** – for data cleaning and preprocessing
+
+---
+
+## 📊 Key Insights Delivered
+
+- 📈 Year-wise performance trends (runs, average, strike rate)  
+- 🏏 Format-wise comparison: ODIs, T20Is, Tests  
+- 📍 Venue & opposition-based performance  
+- 🔥 Best innings in high-pressure games  
+- 🔢 Batting position impact on scoring
+
+---
+
+## 📸 Dashboard
+
+![MS Dhoni Dashboard](https://github.com/user-attachments/assets/cf2b188b-c042-4904-a137-922bb3a7a8af)
 
 ---
 
 ## 🌱 Learning Outcomes
 
-- Data cleaning and transformation  
-- Creating insightful visual stories  
+- Hands-on experience in **Power BI storytelling**  
+- Improved data modeling and slicing by filters  
+- Practical understanding of sports analytics  
+- Reinforced data cleaning and transformation using Excel
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Project Repository
+
+📂 [**GitHub Repository**](https://github.com/Bhishmadev2003/ms-dhoni-career-performance-dashboard)
+
+---
+
+## 📬 Connect with Me
 
 **Bhishmadev Naskar**  
 📧 [LinkedIn](https://www.linkedin.com/in/bhishmadevnaskar/)
-
